@@ -1,7 +1,7 @@
-Ticker: ROBOT
+Ticker: ROB
 
 
-https://twitter.com/robotstake
+https://twitter.com/robspool
 
 
-https://robotstake.com
+https://robspool.com
