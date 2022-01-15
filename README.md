@@ -1,7 +1,7 @@
-Ticker: ROB
+Ticker: GAS
 
 
-https://twitter.com/robspool
+https://twitter.com/greenasio
 
 
-https://robspool.com
+https://greenas.io
